@@ -1,4 +1,4 @@
-# ChemCorp Incorporated
+# Business Case: ChemCorp Incorporated
 
 For my visualisation and data story, please also checkout the [Tableau Public Viz](https://public.tableau.com/app/profile/nam.anh.pham3727/viz/ChemCorpInc__16732553795700/ChemCorpInc_-CaseStudy).
 
